@@ -1,0 +1,4 @@
+# Dependencies inferred from notebook imports; not a validated lockfile.
+-r ../../requirements.txt
+gymnasium[mujoco]>=1.0,<2
+mujoco>=3.2,<4

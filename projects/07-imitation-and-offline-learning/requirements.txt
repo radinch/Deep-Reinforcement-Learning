@@ -1,0 +1,5 @@
+# Dependencies inferred from notebook imports; not a validated lockfile.
+-r ../../requirements.txt
+gymnasium[classic-control]
+minigrid
+imageio[ffmpeg]

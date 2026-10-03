@@ -1,0 +1,33 @@
+# Python and notebook caches
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Local environments and editor state
+.venv/
+venv/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+.env
+.env.*
+
+# Generated training outputs and downloaded datasets
+checkpoints/
+videos/
+tweeteval_cache/
+wandb/
+lightning_logs/
+runs/
+outputs/
+*.pt
+*.pth
+*.ckpt
+*.log
+*.zip
+
+# Preserve the supplied exploration runs and checked-in project artifacts.
+!projects/06-deep-exploration/results/**/runs/
+!projects/06-deep-exploration/results/**/runs/**

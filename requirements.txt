@@ -1,0 +1,11 @@
+# Common notebook dependencies; install project-specific requirements separately.
+# Versions were not frozen in the source archive.
+jupyterlab
+ipython
+numpy
+torch
+matplotlib
+pandas
+tqdm
+pillow
+imageio[ffmpeg]

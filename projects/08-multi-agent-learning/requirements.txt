@@ -1,0 +1,6 @@
+# Dependencies inferred from notebook imports; not a validated lockfile.
+-r ../../requirements.txt
+torchrl
+tensordict
+vmas
+pyvirtualdisplay

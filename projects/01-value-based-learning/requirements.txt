@@ -1,0 +1,4 @@
+# Dependencies inferred from notebook imports; not a validated lockfile.
+-r ../../requirements.txt
+gymnasium[classic-control,box2d]
+opencv-python
